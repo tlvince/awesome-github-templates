@@ -42,6 +42,7 @@
 ## :hammer: Template Generators
 
 * [Issue and Pull Request Template Generator featuring Cthulhu and Lewis Carroll](https://www.talater.com/open-source-templates/)
+* [Issue and Pull Request templates for unmaintained projects](https://github.com/tlvince/github-unmaintained-templates)
 
 ## :pencil: License
 
